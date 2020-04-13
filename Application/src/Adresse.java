@@ -6,4 +6,5 @@ public class Adresse {
         // Sinon : https://github.com/googlemaps/google-maps-services-java ?
         return d;                
     } //test commit & push test
+    //test
 }
